@@ -8,14 +8,7 @@ Este repositorio contiene una serie de ejercicios diseñados para mejorar tus ha
 
 ## Estructura de carpetas
 
-Cada ejercicio se encuentra en su propia carpeta, con la siguiente estructura:
-
-- `ejercicio-01/`
-  - `index.html`: Instrucciones del problema.
-  - `ejercicio-01.js`: Solución en JavaScript.
-- `ejercicio-02/`
-  - ...
-- ...
+Cada archivo .js va tener un ejercicio con una ligera descripción de lo que hacer y retorna
 
 ## Cómo usar este repositorio
 
